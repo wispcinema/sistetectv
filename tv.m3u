@@ -30,8 +30,21 @@ http://172.16.10.200/8.flv
 #EXTINF:0 tvg-id="ESPN 2" tvg-logo="https://unity-img.tbxapis.com/v0/images/9d7624f8a31a91dfb23bc737b8e1df58/content/60db41ebe80133d9571ff66c/b093b79020322ea0148d125489a34e48/img.png" tvg-name="ESPN 2" ESPN 2 group-title="DEPORTE", ESPN 2 OP2
 http://172.16.10.200/8.ts
 
-#EXTINF:0 tvg-id="CANAL DE LAS ESTRELLAS" tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/nuevo_antes_despues_logo_las_estrellas_televisa.png?fit=550%2C268&ssl=1" tvg-name="CANAL DE LAS ESTRELLAS" group-title="COLOMBIA", CANAL DE LAS ESTRELLAS
+#EXTINF:0 tvg-id="CANAL DE LAS ESTRELLAS" tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/nuevo_antes_despues_logo_las_estrellas_televisa.png?fit=550%2C268&ssl=1" tvg-name="CANAL DE LAS ESTRELLAS" group-title="COLOMBIA", CANAL DE LAS ESTRELLAS OP1
+http://172.16.10.200/12.flv 
 
-#EXTINF:0 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png" tvg-name="ESPN" group-title="DEPORTE",
+#EXTINF:0 tvg-id="CANAL DE LAS ESTRELLAS" tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/nuevo_antes_despues_logo_las_estrellas_televisa.png?fit=550%2C268&ssl=1" tvg-name="CANAL DE LAS ESTRELLAS" group-title="COLOMBIA", CANAL DE LAS ESTRELLAS OP2
+http://172.16.10.200/12.ts 
 
+#EXTINF:0 tvg-id="DISKOVERY KIDS" tvg-logo="https://i.pinimg.com/originals/5d/16/97/5d1697354b266bfbb505e4c512eb3c89.png" tvg-name="DISKOVERY KIDS" group-title="DISKOVERY KIDS", DISKOVERY KIDS OP1
+http://172.16.10.200/12.flv
+
+#EXTINF:0 tvg-id="DISKOVERY KIDS" tvg-logo="https://i.pinimg.com/originals/5d/16/97/5d1697354b266bfbb505e4c512eb3c89.png" tvg-name="DISKOVERY KIDS" group-title="DISKOVERY KIDS", DISKOVERY KIDS OP2
+http://172.16.10.200/12.ts
+
+#EXTINF:0 tvg-id="TELEANTIOQUIA"  tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/07/telra.png" group-title="COLOMBIA" tvg-name="TELEANTIOQUIA", TELEANTIOQUIA OP1
+http://172.16.10.200/14.flv
+
+#EXTINF:0 tvg-id="TELEANTIOQUIA"  tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/07/telra.png" group-title="COLOMBIA" tvg-name="TELEANTIOQUIA", TELEANTIOQUIA OP2
+http://172.16.10.200/14.ts
 
