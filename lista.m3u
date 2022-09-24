@@ -1,0 +1,42 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="Win Sports +" tvg-logo="http://imgfz.com/i/H37ziVm.png" tvg-name="WIN SPORTS +" group-title="DEPORTE", WIN SPORTS + 
+http://172.16.10.200/0.flv
+
+#EXTINF:0 tvg-id="RCN" tvg-name="RCN" tvg-logo="https://imagenes.canalrcn.com/ImgCanal/logo-autores-2_0_0.png?null" group-title="COLOMBIA", CANAL RCN 
+http://172.16.10.200/2.flv
+
+#EXTINF:0 tvg-id="CARACOL" tvg-name="CARACOL" tvg-logo="https://pbs.twimg.com/media/EZv1IliWoAEnzit.jpg" group-title="COLOMBIA", CARACOL 
+http://172.16.10.200/4.flv
+
+#EXTINF:0 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png" tvg-name="ESPN" group-title="DEPORTE", ESPN 
+http://172.16.10.200/6.flv
+
+#EXTINF:0 tvg-id="ESPN 2" tvg-logo="https://unity-img.tbxapis.com/v0/images/9d7624f8a31a91dfb23bc737b8e1df58/content/60db41ebe80133d9571ff66c/b093b79020322ea0148d125489a34e48/img.png" tvg-name="ESPN 2" ESPN 2 group-title="DEPORTE", ESPN 2 
+http://172.16.10.200/8.flv
+
+#EXTINF:0 tvg-id="CANAL DE LAS ESTRELLAS" tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/nuevo_antes_despues_logo_las_estrellas_televisa.png?fit=550%2C268&ssl=1" tvg-name="CANAL DE LAS ESTRELLAS" group-title="COLOMBIA", CANAL DE LAS ESTRELLAS 
+http://172.16.10.200/11.flv
+
+#EXTINF:0 tvg-id="DISKOVERY KIDS" tvg-logo="https://i.pinimg.com/originals/5d/16/97/5d1697354b266bfbb505e4c512eb3c89.png" tvg-name="DISKOVERY KIDS" group-title="DISKOVERY KIDS", DISKOVERY KIDS 
+http://172.16.10.200/12.flv
+
+#EXTINF:0 tvg-id="TELEANTIOQUIA"  tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/07/telra.png" group-title="COLOMBIA" tvg-name="TELEANTIOQUIA", TELEANTIOQUIA 
+http://172.16.10.200/14.flv
+
+#EXTINF:0 tvg-id="BABY SHARK" tvg-logo="https://www.intektoys.com/wp-content/uploads/2019/12/baby-shark_chapita.png" tvg-name="BABY SHARK" group-title="INFANTILES", BABY SHARK 
+https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:0 tvg-id="RCN Internacional" tvg-name="RCN Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RCN_Nuestra_Tele_logo.svg/1200px-RCN_Nuestra_Tele_logo.svg.png" group-title="COLOMBIA", RCN Internacional
+https://rcntv-rcnmas-1-us.roku.wurl.tv/2000.m3u8
+
+#EXTINF:0 tvg-id="Telepacifico" tvg-name="Telepacifico" tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2021/08/telepacifico-logo-vector.png" group-title="COLOMBIA", Telepacifico
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="Vevo Latino" tvg-name="Vevo Latino" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=744cda&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fvevolatino.png" group-title="MUSICA", Vevo Latino
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/782b647b2e38471e80cae5e7bdc3f1dc/live_8.m3u8
+
+#EXTINF:0 tvg-id="DuckTV" tvg-logo="https://img.favpng.com/5/7/7/duck-tv-television-channel-logo-television-show-png-favpng-fkiDbnZXYQwuuBYPX6R1jetaQ.jpg" tvg-name="DuckTV" group-title="INFANTILES", DuckTV
+https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
+
+#EXTINF:0 tvg-id="CityTV" tvg-logo="https://seeklogo.com/images/C/city-tv-logo-93CC13EB21-seeklogo.com.png" group-title="COLOMBIA" group-title="COLOMBIA" tvg-name="City TV", City TV https://citytv.cachefly.net/citytv1/citytv1/chunks.m3u8
